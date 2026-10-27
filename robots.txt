@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://caddis-gr.github.io/sitemap.xml

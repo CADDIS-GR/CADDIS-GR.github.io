@@ -1,125 +1,485 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- ===== 허브 ===== -->
+  <!-- ===== 사이트 첫 화면 ===== -->
   <url>
     <loc>https://caddis-gr.github.io/</loc>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
-  <!-- ===== Fishing Technique ===== -->
+  <!-- ===== 허브 메인 ===== -->
   <url>
-    <loc>https://caddis-gr.github.io/fishing-technique/</loc>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://caddis-gr.github.io/fishing-technique/spot-maps/shingi-fishing-spot.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://caddis-gr.github.io/fishing-technique/techniques/singiji-light.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://caddis-gr.github.io/fishing-technique/techniques/Winter_Singiji_Master_Guide.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://caddis-gr.github.io/fishing-technique/techniques/Naked_Fishing_With_Indicator.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://caddis-gr.github.io/fishing-technique/techniques/Multi-Split_Indicator_Nymphing.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://caddis-gr.github.io/fishing-technique/techniques/Micro_Nymphing_Guide.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://caddis-gr.github.io/fishing-technique/techniques/Naked_Fishing_Emerger_Tip.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://caddis-gr.github.io/fishing-technique/techniques/Full_Sinking_Line_Bottom_Retrieval.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://caddis-gr.github.io/fishing-technique/techniques/3D_fullsinking_mini_leech_sim.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://caddis-gr.github.io/fishing-technique/techniques/Stillwater_Tactical_Matrix.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://caddis-gr.github.io/fishing-technique/techniques/Hybrid_Drift_Fishing.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://caddis-gr.github.io/fishing-technique/techniques/Color_Rotation_Strategy_Guide.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
 
-  <!-- ===== Fishing Log ===== -->
+  <!-- ===== 조행기 (Field Log) ===== -->
   <url>
-    <loc>https://caddis-gr.github.io/fishing-log/</loc>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/field-log/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://caddis-gr.github.io/fishing-log/index.html</loc>
-    <changefreq>weekly</changefreq>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/field-log/logs/2026-season-review-v2.html</loc>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://caddis-gr.github.io/fishing-log/logs/2024-11-15-hanteo.html</loc>
-    <changefreq>never</changefreq>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/field-log/logs/2026-hanter-tackle-system.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/field-log/logs/2026-10-23-hanter.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/field-log/logs/2026-05-16-hanter.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/field-log/logs/2026-05-16-hanter-report.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/field-log/logs/2026-05-08-hanter-report.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/field-log/logs/2026-05-08-hanter-final-v3.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/field-log/logs/2026-05-01-hanter.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/field-log/logs/2026-04-25-hanter-log.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/field-log/logs/2026-04-11-hanter.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/field-log/logs/2026-03-29-hanter.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/field-log/logs/2026-03-14_daedae.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/field-log/logs/2026-03-01_daedae.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/field-log/logs/2026-02-21_daedae.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/field-log/logs/2026-02-14_hanter.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/field-log/logs/2025-01-04-singisa.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/field-log/logs/2024-12-20-hanteo.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/field-log/logs/2024-12-13-singisa.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/field-log/logs/2024-11-29-singisa.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/field-log/logs/2024-11-15-hanteo.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/field-log/intro-map/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ===== 리서치·기법 ===== -->
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/research/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/research/archive/spot-maps/shingi-fishing-spot.html</loc>
+    <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://caddis-gr.github.io/fishing-log/logs/2024-11-29-singisa.html</loc>
-    <changefreq>never</changefreq>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/research/archive/stillwater/micro-nymphing/2026-oct-micro-nymphing-strategy.html</loc>
+    <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://caddis-gr.github.io/fishing-log/logs/2024-12-13-singisa.html</loc>
-    <changefreq>never</changefreq>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/research/archive/techniques/260225-singiji-Attact.html</loc>
+    <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://caddis-gr.github.io/fishing-log/logs/2024-12-20-hanteo.html</loc>
-    <changefreq>never</changefreq>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/research/archive/techniques/3D_fullsinking_mini_leech_sim.html</loc>
+    <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://caddis-gr.github.io/fishing-log/logs/2025-01-04-singisa.html</loc>
-    <changefreq>never</changefreq>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/research/archive/techniques/Color_Rotation_Strategy_Guide.html</loc>
+    <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://caddis-gr.github.io/fishing-log/logs/2026-02-14_hanter.html</loc>
-    <changefreq>never</changefreq>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/research/archive/techniques/Full_Sinking_Line_Bottom_Retrieval.html</loc>
+    <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://caddis-gr.github.io/fishing-log/logs/2026-02-21_daedae.html</loc>
-    <changefreq>never</changefreq>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/research/archive/techniques/Hybrid_Drift_Fishing.html</loc>
+    <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/research/archive/techniques/Indicator_Chironomid_Strategy.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/research/archive/techniques/Micro_Nymphing_Guide.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/research/archive/techniques/Micro_Nymphing_v2_Rigging_System.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/research/archive/techniques/Multi-Split_Indicator_Nymphing.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/research/archive/techniques/Naked_Fishing_Emerger_Tip.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/research/archive/techniques/Naked_Fishing_With_Indicator.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/research/archive/techniques/Stillwater_Tactical_Matrix.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/research/archive/techniques/Winter_Singiji_Master_Guide.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/research/archive/techniques/fly_hovering_simulation.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/research/archive/techniques/singiji-light.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/research/four-line-system.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/research/hang-zone.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/research/indicator-system.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/research/micro-nymphing.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ===== 장비 리뷰 ===== -->
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/gear/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/gear/fly-line/sa-parabolic-sink.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/gear/notes/midge-tip-buzzer-tip-why-review.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/gear/reviews/251219-Loon_Outdoors_Deep_Soft_Weight.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/gear/reviews/251224-TMC_Prismatic_Thread.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/gear/reviews/260108_sonar_sink_manual.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/gear/reviews/260108_sonar_sink_manual_EN.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/gear/reviews/Airflo_Sixth_Sense2_DI5_FieldReport_S01.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/gear/reviews/Airflo_Sixth_Sense2_DI5_Review.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/gear/reviews/Parabolic_Sink_Line.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/gear/reviews/Paradigm_Bougl%C3%A9_Gold.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/gear/reviews/RIO_Elite_CamoLux_WF5I_Review.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/gear/reviews/RIO_Elite_Technical_Trout_WF4F.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/gear/reviews/SA_SONAR_STILLWATER_CLEAR_EMERGER_TIP_Line.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/gear/reviews/TT_Helix_863-4_Review.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/gear/reviews/Vision_Onki_Ultimate_Finesse.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/gear/reviews/airflo_euro_nymph_short_review.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/gear/reviews/depthtrax-1h-first-use-review.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/gear/reviews/flyline_dressing_guide.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/gear/reviews/sa-parabolic-sink-review.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/gear/reviews/sa-sonar-titan-i3-5-review.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/gear/reviews/sage-launch-386-4-review.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/gear/reviews/sink25cold_manual_v2.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/gear/reviews/snowbee-xs-plus-buzzer-2-preview.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/gear/reviews/tt-tech-gloves-review.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ===== 플라이 패턴 ===== -->
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/fly-patterns/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/fly-patterns/archive/docs/air-bubble-hotspot.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/fly-patterns/archive/flies/blue-collection/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/fly-patterns/archive/flies/chironomid/2026-chironomid-pupa/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/fly-patterns/archive/flies/chironomid/white-pupa-pink-larva/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/fly-patterns/archive/flies/chironomid/zucchini-pupa/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/fly-patterns/archive/flies/nymph/midge-collection/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/fly-patterns/archive/flies/nymph/zebra-midge/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/fly-patterns/archive/flies/streamer/black-torpedo-leech/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/fly-patterns/archive/flies/streamer/glow-bead-marabou-leech/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/fly-patterns/archive/flies/streamer/white-version-leech/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/fly-patterns/archive/flies/streamer/white-zonker-collection/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/fly-patterns/archive/flies/tech/color-strategy/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/fly-patterns/archive/flies/tech/white-dot-philosophy/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/fly-patterns/blob-fly/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ===== 라이브러리 ===== -->
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/library/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/library/infographics/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/library/science/fly-fishing/vision/underwater-light-fluorescence.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/library/science/trout-feeding/ep01/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/library/science/trout-feeding/ep02/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/library/science/trout-feeding/ep03/Trout_Like_Big_Bugs.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ===== 소개 ===== -->
+  <url>
+    <loc>https://caddis-gr.github.io/fly-fishing-hub/about/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
 
 </urlset>
